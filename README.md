@@ -7,22 +7,8 @@
 Atualmente estou cursando segundo semestre de Análise e Desenvolvimento de Sistemas na UniC(Centro Universitário Cearence).       
 Moro em Fortaleza-Ceará 🏝️
 
-<p align="left"> 
-    <a href="https://github.com/rebeca-vital?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rebeca-vital?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/rebeca-vital?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rebeca-vital?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+
+
 
 ---
 
