@@ -4,7 +4,7 @@
 
 **`Desenvolvedora`**
 
-Atualmente estou cursando segundo semestre de Análise e Desenvolvimento de Sistemas na UniC(Centro Universitário Cearence).
+Atualmente estou cursando segundo semestre de Análise e Desenvolvimento de Sistemas na UniC(Centro Universitário Cearence).       
 Moro em Fortaleza-Ceará 🏝️
 
 <p align="left"> 
