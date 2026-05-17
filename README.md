@@ -1,11 +1,10 @@
 # 👩🏻‍💻 Rebeca Vital
+**Estudante de ADS | Desenvolvimento web, mobile e Tecnologia**
 
+ Tenho focado meus estudos em desenvolvimeto web, mobile, APIs REST, banco de dados, Linux e projetos acadêmicos práticos.
+ Desenvolvendo projetos e atividades voltadas para tecnologia e desenvolvimento de software.
 
-
-**`Desenvolvedora`**
-
-Atualmente estou cursando segundo semestre de Análise e Desenvolvimento de Sistemas na UniC(Centro Universitário Cearence).       
-Moro em Fortaleza-Ceará 🏝️
+Fortaleza-Ceará 🏝️
 
 
 
@@ -46,6 +45,37 @@ Moro em Fortaleza-Ceará 🏝️
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img
+    align="left"
+    alt="Node.js"
+    title="Node.js"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+<img
+    align="left"
+    alt="react"
+    title="react"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<img
+    align="left"
+    alt="mySQL"
+    title="mySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+<img
+    align="left"
+    alt="Linux"
+    title="Linux"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 <br/>
 <br/>
@@ -56,7 +86,7 @@ Moro em Fortaleza-Ceará 🏝️
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=rebeca-vital&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
