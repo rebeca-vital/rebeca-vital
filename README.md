@@ -1,8 +1,10 @@
 # 👩🏻‍💻 Rebeca Vital
-**Estudante de ADS | Desenvolvimento web, mobile e Tecnologia**
+ **Estudante de ADS | Desenvolvimento web | mobile | Tecnologia**
 
- Tenho focado meus estudos em desenvolvimeto web, mobile, APIs REST, banco de dados, Linux e projetos acadêmicos práticos.
- Desenvolvendo projetos e atividades voltadas para tecnologia e desenvolvimento de software.
+Atualmente curso o 4° semestre de Análise e desenvolvimento de Sistemas na Unic (Centro Universitário Cearence).
+
+Tenho focado meus estudos em desenvolvimeto web, mobile, APIs REST, banco de dados, Linux e projetos acadêmicos práticos.
+Desenvolvendo projetos e atividades voltadas para tecnologia e desenvolvimento de software.
 
 Fortaleza-Ceará 🏝️
 
@@ -11,7 +13,7 @@ Fortaleza-Ceará 🏝️
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🌸 Tecnologias & Ferrament
 
 <img 
     align="left" 
@@ -77,25 +79,25 @@ Fortaleza-Ceará 🏝️
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
+ <img
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bekavital_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/085rebeca-vital) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rebecaosv22@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rebeca-vital&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rebeca-vital&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rebeca-vital&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rebeca-vital&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
+[![](https://komarev.com/ghpvc/?username=Rebeca-vital&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeca-vital&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
